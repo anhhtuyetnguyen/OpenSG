@@ -1,0 +1,7 @@
+#include "opensg.h"
+
+OpenSG::OpenSG()
+{
+OSG :: osgInit (argc, argv);
+
+}

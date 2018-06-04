@@ -1,0 +1,6 @@
+#include "QGLWidget.h"
+
+QGLWidget::QGLWidget()
+{
+
+}

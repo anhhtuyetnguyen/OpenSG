@@ -1,0 +1,7 @@
+#include "opensg.h"
+
+OpenSG::OpenSG()
+{
+OpenSG :: osgInit (argc, argv);
+
+mMgr = neuer OpenSGOSG
